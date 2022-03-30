@@ -10,7 +10,7 @@ Text in this dataset is either regular or arc text.
 
 Some Examples:
 
-![0000123](https://user-images.githubusercontent.com/44936161/160741130-bc7aa958-3df8-4a3d-a9b2-9dd81fff055d.jpg)
+![0000332](https://user-images.githubusercontent.com/44936161/160741443-8e4dab8f-fa35-4c7b-a615-bac0b0dd6aa0.jpg)
 ![0000017](https://user-images.githubusercontent.com/44936161/160740182-5c305579-05b5-49e1-a99a-4834abf670ca.jpg)
 ![0000033](https://user-images.githubusercontent.com/44936161/160740194-6a63ca27-2c1f-4594-845b-77831a092c24.jpg)
 ![0000047](https://user-images.githubusercontent.com/44936161/160740200-972113ee-a20d-406d-94c7-076f41f283ea.jpg)
