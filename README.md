@@ -9,6 +9,7 @@ The images are collected from  www.worldcoindatabase.com, https://onlinecoin.clu
 Text in this dataset is either regular or arc text. 
 
 Some Examples:
+
 ![0000070](https://user-images.githubusercontent.com/44936161/160741024-da4fa5d2-33fe-46ea-b581-4dfc440bc176.jpg)
 ![0000017](https://user-images.githubusercontent.com/44936161/160740182-5c305579-05b5-49e1-a99a-4834abf670ca.jpg)
 ![0000033](https://user-images.githubusercontent.com/44936161/160740194-6a63ca27-2c1f-4594-845b-77831a092c24.jpg)
